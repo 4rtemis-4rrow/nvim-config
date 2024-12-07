@@ -1,0 +1,5 @@
+require("plugins")
+require("Settings")
+require("Keybindings")
+require("highlight")
+require("autocmd")
